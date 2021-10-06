@@ -4,7 +4,9 @@ this is not first commit, I just delete something and re-push it time-to-time
 
 something note here
 
-If I want to update something to github, I should commit first, then push it.
+---
+
+# If I want to update something to github, I should commit first, then push it.
 
 ```
 git add .
