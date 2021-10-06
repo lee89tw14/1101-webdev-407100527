@@ -7,6 +7,8 @@ something note here
 If I want to update something to github, I should commit first, then push it.
 
 ```
+git add .
+
 git commit -m "the change I do"
 
 git push
