@@ -16,7 +16,7 @@ git commit -m "the change I do"
 git push
 ```
 
-[to homepage](https://lee89tw14.github.io/1101-webdev-407100527/hp.html)
+[to homepage](https://lee89tw14.github.io/1101-webdev-407100527/index.html)
 
 ---
 
